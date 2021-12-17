@@ -1,0 +1,50 @@
+.container {
+  display: flex;
+  justify-content: space-between;
+}
+.button {
+  background-color: #4d90fe;
+  background-image: -webkit-linear-gradient(top, #4d90fe, #4767ed);
+  border: 1px solid #3079ed;
+  border-radius: 2px;
+  color: #fff;
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 10px 0px;
+  padding: 0 12px;
+  line-height: 27px;
+  height: 30px;
+  text-align: center;
+  min-width: 120px;
+  float: right;
+  box-shadow: none;
+  font-size: 13px;
+  font-weight: bold;
+  outline: 0;
+}
+a {
+  color: crimson;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  line-height: 2;
+}
+h4 {
+  width: 100px;
+  display: inline-block;
+  margin: 3px;
+  padding: 3px;
+  line-height: 1;
+  text-align: left;
+  font-size: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+  min-width: 300px;
+  height: 32px;
+  font-weight: normal;
+}
+input[type="text"] {
+  width: 30%;
+  padding: 2px 2px;
+  margin: 8px 0;
+}
+input{
+    width: 20%;
+}
+
